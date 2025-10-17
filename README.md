@@ -37,7 +37,7 @@ O objetivo deste projeto é servir como base para aprendizado de conceitos impor
 
 2.  Instale as dependências:
     ```bash
-    cd nome-do-repo
+    cd crud-nodejs
     npm install
     ```
 
