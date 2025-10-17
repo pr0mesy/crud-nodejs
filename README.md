@@ -32,7 +32,7 @@ O objetivo deste projeto é servir como base para aprendizado de conceitos impor
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+    git clone https://github.com/pr0mesy/crud-nodejs.git
     ```
 
 2.  Instale as dependências:
