@@ -1,0 +1,3 @@
+echo "node_modules/" >> .gitignore
+echo "package-lock.json" >> .gitignore   # opcional, depende se quer versionar
+echo "src/data/*.json" >> .gitignore     # opcional, se não quiser subir os produtos.json
